@@ -62,6 +62,7 @@ class _QuizBodyState extends State<QuizBody> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.deepPurple,
+        title: Text('Simple Quiz App by Shoaib Hossain'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
